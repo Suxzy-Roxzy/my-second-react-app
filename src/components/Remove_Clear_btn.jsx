@@ -1,5 +1,5 @@
 // import React from "react";
-import { motion, AnimatePresence } from 'framer-motion';
+import { motion, AnimatePresence } from "framer-motion";
 
 const RemoveClearbtn = ({ items, setitems }) => {
   if (items?.length === 0) return null;

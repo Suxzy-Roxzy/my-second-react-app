@@ -30,6 +30,7 @@ const App = () => {
   // };
 
   
+  
   return (
     <div className="flex justify-center items-center h-screen w-full bg-[#1B2A4E]">
       <div className="flex flex-col w-full max-w-lg items-center gap-6 rounded-xl bg-white p-6 shadow-xl border border-gray-700 text-gray-900">

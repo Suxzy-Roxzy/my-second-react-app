@@ -1,6 +1,5 @@
 import { useState } from "react";
 
-
 const AddItemsForm = ({ additems }) => {
     const [data, setdata] = useState("");
 
@@ -34,5 +33,4 @@ const AddItemsForm = ({ additems }) => {
     );
 };
 
-export default AddItemsForm
-
+export default AddItemsForm;
